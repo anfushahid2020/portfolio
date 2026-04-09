@@ -10,7 +10,7 @@ const projects = [
       'Iterated through multiple feedback rounds',
       'React frontend + PostgreSQL database',
     ],
-    tech: ['React', 'PostgreSQL', 'RAG Model', 'Claude API'],
+    tech: ['React', 'PostgreSQL', 'RAG Model', 'OpenAI API'],
   },
   {
     type: 'Client Project',
